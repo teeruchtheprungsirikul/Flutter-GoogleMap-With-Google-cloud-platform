@@ -1,9 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.googlemap_google_cloud_platform">
-    <users-permission android:name="android.permission.CAMERA"/>
-    <users-permission android:name="android.permission.INTERNET"/>
-    <users-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
-    <users-permission android:name="android.permission.COARSE_LOCATION"/>
    <application
         android:label="Map App"
         android:name="${applicationName}"
